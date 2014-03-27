@@ -7,7 +7,7 @@ USAGE
 ======
 - Download workflow file and add to Alfred 2 either by double clicking or by adding it trhough the pref window in Alfred 2
 - Bring up Alfred and type 'hips' followed by a number
-- Alfred will return x amount of paragraphs (w/new line not <p> tags) and paste into the foremost window.
+- Alfred will return x amount of paragraphs (w/ new line not \<p\> tags) and paste into the foremost window.
 
 ------
 A Hipster Ipsum Generator Workflow for Alfred 2. This workflow uses the great http://hipsum.co/ API by Jason Cosper. 
